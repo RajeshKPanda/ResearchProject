@@ -1,4 +1,1 @@
-hi thi si my test program
-
-'thisis my secondline
- hello how are you ?
+This is my first story
